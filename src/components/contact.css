@@ -1,0 +1,37 @@
+.Contact{
+    margin: 1rem;
+    text-align: center;
+}
+
+.Contact h2 {
+    margin: 2rem 0;
+}
+
+
+textarea{
+    padding: .7rem 1.5rem;
+    font-size: 1.2rem;
+    border-radius: 25px;
+    border: 1px solid rgba(255,255,255, 0.8);
+    background: rgba(255,255,255, 0.2);
+    color: white;
+}
+
+.Contact input{
+    margin-bottom: 1rem;
+}
+
+button{
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    border-radius: 25px;
+    border: 1px solid rgba(255,255,255, 0.8);
+    background: rgba(255,255,255, 0.2);
+    color: white;
+    margin: 2rem 0;
+}
+button:hover{
+    cursor: pointer;
+    color: bisque;
+    transition: all .3s ease-in-out;
+}

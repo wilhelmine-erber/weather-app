@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 12.375,
+        "lat": 51.342
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 283.88,
+        "feels_like": 282.47,
+        "temp_min": 283.57,
+        "temp_max": 284.62,
+        "pressure": 1013,
+        "humidity": 56
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.09,
+        "deg": 330
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1653939506,
+    "sys": {
+        "type": 2,
+        "id": 18814,
+        "country": "DE",
+        "sunrise": 1653879709,
+        "sunset": 1653938074
+    },
+    "timezone": 7200,
+    "id": 6548737,
+    "name": "Leipzig",
+    "cod": 200
+}
